@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 98765,
+    "cover_image_title": "Mystic Kingdom",
+    "author": "Emily Rose",
+    "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
+    "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
+    "posted_date": "May 3, 2024",
+    "reading_time": 15,
+    "hashtags": ["#fantasy", "#magic", "#adventure"]
+  },
+  {
+    "Id": 23456,
+    "cover_image_title": "Secrets of the Cosmos",
+    "author": "Jonathan Spark",
+    "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
+    "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
+    "posted_date": "April 25, 2024",
+    "reading_time": 20,
+    "hashtags": ["#space", "#science", "#exploration"]
+  },
+  {
+    "Id": 54321,
+    "cover_image_title": "Gourmet Adventures",
+    "author": "Chef Marie",
+    "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
+    "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
+    "posted_date": "May 8, 2024",
+    "reading_time": 10,
+    "hashtags": ["#foodie", "#recipes", "#cooking"]
+  },
+  {
+    "Id": 87654,
+    "cover_image_title": "Lost in Time",
+    "author": "Alex Johnson",
+    "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
+    "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
+    "posted_date": "April 30, 2024",
+    "reading_time": 25,
+    "hashtags": ["#timetravel", "#history", "#mystery"]
+  },
+  {
+    "Id": 12345,
+    "cover_image_title": "The Art of Serenity",
+    "author": "Jasmine Lee",
+    "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
+    "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
+    "posted_date": "May 6, 2024",
+    "reading_time": 12,
+    "hashtags": ["#mindfulness", "#meditation", "#wellness"]
+  }
+]
