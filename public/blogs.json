@@ -1,7 +1,7 @@
 [
   {
     "Id": 98765,
-    "cover_image_title": "Mystic Kingdom",
+    "title": "How to get your first job as a self-taught programmer",
     "author": "Emily Rose",
     "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
     "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "Id": 23456,
-    "cover_image_title": "Secrets of the Cosmos",
+    "title": "How to get your first job as a self-taught programmer",
     "author": "Jonathan Spark",
     "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
     "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "Id": 54321,
-    "cover_image_title": "Gourmet Adventures",
+    "title": "How to get your first job as a self-taught programmer",
     "author": "Chef Marie",
     "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
     "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
@@ -31,7 +31,7 @@
   },
   {
     "Id": 87654,
-    "cover_image_title": "Lost in Time",
+    "title": "How to get your first job as a self-taught programmer",
     "author": "Alex Johnson",
     "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
     "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "Id": 12345,
-    "cover_image_title": "The Art of Serenity",
+    "title": "How to get your first job as a self-taught programmer",
     "author": "Jasmine Lee",
     "author_img": "https://i.ibb.co/ynb9rXG/author-img.jpg",
     "cover_img": "https://i.ibb.co/wgrBqkf/cover-image.jpg",
